@@ -1,0 +1,5 @@
+* Subcircuit definition of cell ICV_19
+.SUBCKT ICV_19
+** N=4 EP=0 IP=8 FDC=0
+*.SEEDPROM
+.ENDS

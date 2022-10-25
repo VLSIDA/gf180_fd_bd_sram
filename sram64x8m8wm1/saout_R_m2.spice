@@ -1,0 +1,17 @@
+* Subcircuit definition of cell saout_R_m2
+.SUBCKT saout_R_m2 1 vss q pcb datain men vdd b[7] bb[7] WEN b[0] bb[0] bb[1] b[1] b[2] bb[2] bb[3] b[3] b[4] bb[4]
++ bb[5] b[5] b[6] bb[6] 54 ypass[0] ypass[1] ypass[2] GWE ypass[3] ypass[4] ypass[5] ypass[6] ypass[7] GWEN 74 75 76 77 78
++ 79 80
+** N=131 EP=42 IP=161 FDC=187
+*.SEEDPROM
+X0 vss 54 b[7] 70 bb[7] 73 pcb vdd ypass[7] 74 bb[0] b[0] 75 bb[1] b[1] 76 bb[2] b[2] 77 bb[3]
++ b[3] 78 bb[4] b[4] 79 bb[5] b[5] 80 bb[6] b[6] ypass[0] ypass[1] ypass[2] ypass[3] ypass[4] ypass[5] ypass[6]
++ mux821 $T=2765 83310 0 0 $X=-1345 $Y=83305
+X1 vss 1 85 87 93 men 83 88 92 82 86 89 91 90 vdd WEN GWEN 81 84 wen_wm1 $T=1610 -16880 0 0 $X=100 $Y=-17420
+X2 vss 94 pcb 68 99 100 101 102 104 107 108 72 106 97 71 98 69 103 105 96
++ 95 vdd men
++ sacntl_2 $T=3160 115 0 0 $X=425 $Y=-5
+X3 q vss 109 111 112 114 113 110 116 vdd GWE 72 130 131 115 outbuf_oe $T=3160 27545 0 0 $X=500 $Y=25750
+X4 vss 117 120 125 118 121 123 124 70 73 122 119 vdd datain men 1 din $T=1615 39025 0 0 $X=500 $Y=38740
+X5 126 vss 128 127 131 130 129 pcb vdd 70 73 72 sa $T=3160 43040 0 0 $X=1375 $Y=42060
+.ENDS

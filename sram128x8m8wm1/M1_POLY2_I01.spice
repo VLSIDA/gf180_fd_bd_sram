@@ -1,0 +1,4 @@
+* Subcircuit definition of cell M1_POLY2_I01
+.SUBCKT M1_POLY2_I01
+** N=2 EP=0 IP=0 FDC=0
+.ENDS

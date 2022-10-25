@@ -1,0 +1,10 @@
+* Subcircuit definition of cell ypass_gate
+.SUBCKT ypass_gate vss 3 b d bb db ypass pcb vdd
+** N=26 EP=9 IP=25 FDC=5
+*.SEEDPROM
+X2 bb b pcb vdd pfet_05v0_I09 $T=1240 50985 1 0 $X=200 $Y=43555
+X3 bb db 3 vdd pfet_05v0_I09 $T=1250 43050 1 0 $X=210 $Y=35620
+X4 b d 3 vdd pmos_1p2$$46889004 $T=1405 15300 1 0 $X=-25 $Y=7790
+X5 b d ypass vss nmos_1p2$$47119404 $T=1405 24575 1 0 $X=260 $Y=17090
+X6 bb db ypass vss nmos_1p2$$47119404 $T=1405 34595 1 0 $X=260 $Y=27110
+.ENDS

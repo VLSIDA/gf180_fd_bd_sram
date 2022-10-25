@@ -1,0 +1,4 @@
+* Subcircuit definition of cell ICV_17
+.SUBCKT ICV_17
+** N=19 EP=0 IP=24 FDC=0
+.ENDS

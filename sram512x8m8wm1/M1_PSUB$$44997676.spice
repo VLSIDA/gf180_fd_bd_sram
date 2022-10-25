@@ -1,0 +1,4 @@
+* Subcircuit definition of cell M1_PSUB$$44997676
+.SUBCKT M1_PSUB$$44997676
+** N=7 EP=0 IP=0 FDC=0
+.ENDS

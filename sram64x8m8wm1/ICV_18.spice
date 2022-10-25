@@ -1,0 +1,6 @@
+* Subcircuit definition of cell ICV_18
+.SUBCKT ICV_18 8 11 12 13 14 15 16
+** N=16 EP=7 IP=22 FDC=8
+*.SEEDPROM
+X1 11 12 8 8 8 13 15 14 16 018SRAM_cell1_2x $T=0 0 0 0 $X=-340 $Y=-340
+.ENDS

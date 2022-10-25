@@ -1,0 +1,4 @@
+* Subcircuit definition of cell ICV_3
+.SUBCKT ICV_3
+** N=15 EP=0 IP=20 FDC=0
+.ENDS

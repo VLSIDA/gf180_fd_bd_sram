@@ -1,0 +1,4 @@
+* Subcircuit definition of cell M1_PACTIVE$$204148780
+.SUBCKT M1_PACTIVE$$204148780
+** N=13 EP=0 IP=0 FDC=0
+.ENDS

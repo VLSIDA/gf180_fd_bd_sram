@@ -1,0 +1,5 @@
+* Subcircuit definition of cell ypredec1_ys
+.SUBCKT ypredec1_ys
+** N=8 EP=0 IP=36 FDC=0
+*.SEEDPROM
+.ENDS

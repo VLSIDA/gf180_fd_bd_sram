@@ -1,0 +1,5 @@
+* Subcircuit definition of cell ICV_36
+.SUBCKT ICV_36
+** N=10 EP=0 IP=12 FDC=0
+*.SEEDPROM
+.ENDS

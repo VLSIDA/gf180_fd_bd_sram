@@ -1,0 +1,4 @@
+* Subcircuit definition of cell M1_PSUB_I08
+.SUBCKT M1_PSUB_I08
+** N=1781 EP=0 IP=0 FDC=0
+.ENDS

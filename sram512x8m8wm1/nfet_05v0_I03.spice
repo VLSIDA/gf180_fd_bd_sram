@@ -1,0 +1,5 @@
+* Subcircuit definition of cell nfet_05v0_I03
+.SUBCKT nfet_05v0_I03
+** N=3 EP=0 IP=0 FDC=0
+*.SEEDPROM
+.ENDS

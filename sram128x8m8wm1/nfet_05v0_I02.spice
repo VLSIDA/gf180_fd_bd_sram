@@ -1,0 +1,5 @@
+* Subcircuit definition of cell nfet_05v0_I02
+.SUBCKT nfet_05v0_I02 1 2 3
+** N=3 EP=3 IP=0 FDC=1
+M0 2 3 1 1 nfet_05v0 L=6e-07 W=1.92e-05 AD=4.992e-12 AS=5.6832e-12 PD=2.44e-05 PS=2.896e-05 NRD=1.35417 NRS=1.54167 m=1 nf=10 $X=0 $Y=0 $D=2
+.ENDS

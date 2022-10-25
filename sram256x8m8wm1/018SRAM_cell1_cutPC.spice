@@ -1,0 +1,5 @@
+* Subcircuit definition of cell 018SRAM_cell1_cutPC
+.SUBCKT 018SRAM_cell1_cutPC
+** N=7 EP=0 IP=0 FDC=0
+*.SEEDPROM
+.ENDS

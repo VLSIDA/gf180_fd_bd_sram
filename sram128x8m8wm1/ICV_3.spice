@@ -1,0 +1,5 @@
+* Subcircuit definition of cell ICV_3
+.SUBCKT ICV_3
+** N=2 EP=0 IP=4 FDC=0
+*.SEEDPROM
+.ENDS

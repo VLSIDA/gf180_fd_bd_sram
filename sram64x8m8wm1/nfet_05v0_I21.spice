@@ -1,0 +1,5 @@
+* Subcircuit definition of cell nfet_05v0_I21
+.SUBCKT nfet_05v0_I21
+** N=4 EP=0 IP=0 FDC=0
+*.SEEDPROM
+.ENDS

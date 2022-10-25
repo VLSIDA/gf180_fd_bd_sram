@@ -1,0 +1,4 @@
+* Subcircuit definition of cell M1_PSUB_I05
+.SUBCKT M1_PSUB_I05
+** N=2827 EP=0 IP=0 FDC=0
+.ENDS

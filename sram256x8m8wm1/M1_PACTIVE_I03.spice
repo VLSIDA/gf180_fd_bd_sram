@@ -1,4 +1,0 @@
-* Subcircuit definition of cell M1_PACTIVE_I03
-.SUBCKT M1_PACTIVE_I03
-** N=38 EP=0 IP=0 FDC=0
-.ENDS

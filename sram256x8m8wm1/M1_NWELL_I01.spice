@@ -1,4 +1,0 @@
-* Subcircuit definition of cell M1_NWELL_I01
-.SUBCKT M1_NWELL_I01
-** N=4 EP=0 IP=0 FDC=0
-.ENDS

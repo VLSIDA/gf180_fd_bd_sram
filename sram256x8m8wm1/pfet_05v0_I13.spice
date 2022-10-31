@@ -1,5 +1,0 @@
-* Subcircuit definition of cell pfet_05v0_I13
-.SUBCKT pfet_05v0_I13
-** N=4 EP=0 IP=0 FDC=0
-*.SEEDPROM
-.ENDS

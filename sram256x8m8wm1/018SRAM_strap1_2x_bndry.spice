@@ -1,4 +1,0 @@
-* Subcircuit definition of cell 018SRAM_strap1_2x_bndry
-.SUBCKT 018SRAM_strap1_2x_bndry
-** N=10 EP=0 IP=12 FDC=0
-.ENDS

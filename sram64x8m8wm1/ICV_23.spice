@@ -1,5 +1,0 @@
-* Subcircuit definition of cell ICV_23
-.SUBCKT ICV_23
-** N=6 EP=0 IP=8 FDC=0
-*.SEEDPROM
-.ENDS

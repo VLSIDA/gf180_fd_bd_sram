@@ -1,5 +1,0 @@
-* Subcircuit definition of cell ICV_28
-.SUBCKT ICV_28
-** N=2 EP=0 IP=4 FDC=0
-*.SEEDPROM
-.ENDS

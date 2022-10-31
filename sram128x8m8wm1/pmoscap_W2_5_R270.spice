@@ -1,5 +1,0 @@
-* Subcircuit definition of cell pmoscap_W2_5_R270
-.SUBCKT pmoscap_W2_5_R270
-** N=13 EP=0 IP=0 FDC=0
-*.SEEDPROM
-.ENDS

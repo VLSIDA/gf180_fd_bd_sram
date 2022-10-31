@@ -1,4 +1,0 @@
-* Subcircuit definition of cell M1_PSUB_I02
-.SUBCKT M1_PSUB_I02
-** N=1201 EP=0 IP=0 FDC=0
-.ENDS

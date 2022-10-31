@@ -1,5 +1,0 @@
-* Subcircuit definition of cell pfet_05v0_I11
-.SUBCKT pfet_05v0_I11 1 2 3
-** N=3 EP=3 IP=0 FDC=1
-M0 2 3 1 1 pfet_05v0 L=6e-07 W=3.42e-06 AD=8.892e-13 AS=1.5048e-12 PD=4.46e-06 PS=8.6e-06 NRD=0.304094 NRS=0.51462 m=1 nf=2 $X=0 $Y=0 $D=8
-.ENDS

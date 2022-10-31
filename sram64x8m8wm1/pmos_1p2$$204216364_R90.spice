@@ -1,5 +1,0 @@
-* Subcircuit definition of cell pmos_1p2$$204216364_R90
-.SUBCKT pmos_1p2$$204216364_R90 1 2 3
-** N=3 EP=3 IP=0 FDC=1
-M0 2 3 1 1 pfet_05v0 L=6e-07 W=2.526e-05 AD=6.5676e-12 AS=1.11144e-11 PD=2.63e-05 PS=5.228e-05 NRD=0.0411718 NRS=0.0696754 m=1 nf=2 $X=-155 $Y=0 $D=8
-.ENDS

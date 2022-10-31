@@ -1,5 +1,0 @@
-* Subcircuit definition of cell pmos_1p2$$47513644
-.SUBCKT pmos_1p2$$47513644
-** N=4 EP=0 IP=0 FDC=0
-*.SEEDPROM
-.ENDS

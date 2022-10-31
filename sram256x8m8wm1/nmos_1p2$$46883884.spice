@@ -1,5 +1,0 @@
-* Subcircuit definition of cell nmos_1p2$$46883884
-.SUBCKT nmos_1p2$$46883884 1 2 3 4
-** N=4 EP=4 IP=0 FDC=1
-M0 2 3 1 4 nfet_05v0 L=6e-07 W=1.134e-05 AD=4.9896e-12 AS=4.9896e-12 PD=2.356e-05 PS=2.356e-05 NRD=0.0388007 NRS=0.0388007 m=1 nf=1 $X=-155 $Y=0 $D=2
-.ENDS

@@ -1,4 +1,0 @@
-* Subcircuit definition of cell power_route_04
-.SUBCKT power_route_04
-** N=2 EP=0 IP=0 FDC=0
-.ENDS

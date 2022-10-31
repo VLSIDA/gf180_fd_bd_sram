@@ -1,4 +1,0 @@
-* Subcircuit definition of cell ICV_26
-.SUBCKT ICV_26
-** N=15 EP=0 IP=20 FDC=0
-.ENDS

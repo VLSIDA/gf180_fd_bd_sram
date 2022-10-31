@@ -1,4 +1,0 @@
-* Subcircuit definition of cell ICV_38
-.SUBCKT ICV_38
-** N=15 EP=0 IP=20 FDC=0
-.ENDS

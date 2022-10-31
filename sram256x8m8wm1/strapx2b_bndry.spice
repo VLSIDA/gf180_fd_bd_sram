@@ -1,4 +1,0 @@
-* Subcircuit definition of cell strapx2b_bndry
-.SUBCKT strapx2b_bndry
-** N=10 EP=0 IP=12 FDC=0
-.ENDS
